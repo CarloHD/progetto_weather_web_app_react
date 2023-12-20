@@ -1,0 +1,11 @@
+.iconaMeteo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+
+.iconaMeteo img {
+	width: 250px;
+	filter: drop-shadow(4px 4px 2px rgba(51, 44, 57, 0.6));
+}

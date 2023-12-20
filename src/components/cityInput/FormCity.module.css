@@ -1,0 +1,94 @@
+header {
+	width: 70%;
+	min-width: 400px;
+	height: 158px;
+
+	filter: drop-shadow(4px 4px 2px rgba(51, 44, 57, 0.6));
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	position: relative;
+	padding-left: 79px;
+}
+
+.iconaPin {
+	position: absolute;
+	left: 0;
+
+	display: flex;
+	border: solid 4px #609ea2;
+	border-radius: 50%;
+	background-color: #609ea2;
+
+	z-index: 50;
+}
+
+.iconaPin svg {
+	width: 150px;
+	padding: 10px;
+}
+
+.form-container {
+	width: 100%;
+	background-color: #609ea2;
+	border-radius: 0 50px 50px 0;
+	padding: 30px 30px;
+	padding-left: 109px;
+
+	position: relative;
+	display: flex;
+}
+
+form {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+form input {
+	width: 100%;
+	margin-right: 25px;
+
+	border: none;
+	border-radius: 50px;
+	font-size: 1.2em;
+	text-align: center;
+	letter-spacing: 0.1em;
+	font-weight: 600;
+	background-color: #f0eeed;
+}
+
+form input:focus {
+	outline: none;
+}
+
+form button:active {
+	transform: scale(0.8);
+}
+
+.iconaInvio {
+	width: fit-content;
+
+	all: unset;
+	display: flex;
+	align-items: center;
+}
+
+.iconaInvio svg {
+	width: 40px;
+}
+
+.infoGeotag {
+	position: absolute;
+	bottom: 7px;
+	left: 60px;
+	z-index: 100;
+
+	display: flex;
+}
+
+.infoGeotag span {
+	font-size: 0.75em;
+	margin-right: 20px;
+	line-height: 0.9em;
+}

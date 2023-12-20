@@ -1,0 +1,14 @@
+.app {
+	padding-top: 50px;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	height: 100vh;
+
+
+	background: #609EA2;
+	background: -moz-linear-gradient(-45deg, #609EA2 0%, #332C39 100%);
+	background: -webkit-linear-gradient(-45deg, #609EA2 0%, #332C39 100%);
+	background: linear-gradient(135deg, #609EA2 0%, #332C39 100%);
+
+}

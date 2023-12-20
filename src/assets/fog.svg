@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg fill="#000000" width="800px" height="800px" viewBox="0 0 24 24" id="sun" data-name="Flat Color" xmlns="http://www.w3.org/2000/svg" class="icon flat-color">
+  <path
+     id="secondary"
+     d="m 10.510092,8 h 10.320771 c 1.333332,0 1.333332,-2 0,-2 H 10.510092 c -1.243402,0 -1.160283,2 0,2 z M 7.8308626,14 H 20.830863 c 1.333332,0 1.333332,2 0,2 H 7.8308626 c -1.535989,0 -1.566324,-2 0,-2 z"
+     style="display:inline;fill:#c92c6d;fill-opacity:1" />
+  <path
+     id="primary"
+     d="M 13.483753,20 H 3 C 1.6666672,20 1.6666672,18 3,18 h 10.483753 c 1.333333,0 1.333333,2 0,2 z M 20.611148,10 H 3 c -1.3333328,0 -1.3333328,2 0,2 h 17.611148 c 1.572755,0 1.588974,-2 0,-2 z"
+     style="display:inline;fill:#332c39;fill-opacity:1" />
+</svg>
